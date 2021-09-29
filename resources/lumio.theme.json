@@ -1,0 +1,80 @@
+{
+  "name": "Lumio",
+  "dark": true,
+  "author": "Linden",
+  "editorScheme": "/Lumio.xml",
+  "ui": {
+    "*": {
+      "background": "#1B1410",
+      "foreground": "#afa5a0"
+    },
+    "DefaultTabs": {
+      "underlineColor": "#FF3856",
+      "underlinedTabForeground": "#ecb881",
+      "underlinedTabBackground": "#312518"
+    },
+    "Tree": {
+      "foreground":  "#98676a",
+      "rowHeight":  26,
+      "selectionForeground": "#8AB1B0",
+      "selectionBackground": "#3F2F1D",
+      "selectionInactiveBackground": "#3F2F1D"
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "#312518",
+      "inactiveUnderlineColor": "#8AB1B0"
+    },
+    "Panel": {
+      "background":"#1B1410",
+      "foreground":  "#ecb881"
+    },
+    "Menu":{
+      "background": "#1B1410",
+      "separatorColor": "#3F2F1D",
+      "borderColor": "#3F2F1D"
+    },
+    "Popup": {
+      "borderColor": "#3F2F1D",
+      "innerBorderColor": "#3F2F1D"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "#2d2015",
+        "inactiveBackground": "#1B1410",
+        "borderColor": "#473524"
+      },
+      "Button.selectedForeground": "#dc9e5b"
+    },
+    "TitlePane": {
+      "background": "#1B1410",
+      "inactiveBackground": "#231815",
+      "infoForeground":  "#C",
+      "inactiveInfoForeground": "#3F2F1D"
+    },
+    "Borders.ContrastBorderColor": "#36281a",
+    "Borders.color": "#36281a",
+    "ComboBox": {
+      "selectionBackground": "#764048"
+    },
+    "TextField":{
+      "background":"#3F2F1D",
+      "highlight":"#FF3856",
+      "selectionBackground":"#FF3856"
+    },
+    "Link": {
+      "activeForeground": "#8AB1B0",
+      "hoverForeground": "#FF3856",
+      "visitedForeground":"#98676a"
+    },
+    "ActionButton":{
+      "pressedBackground": "#71544b",
+      "pressedBorderColor": "#5e3e41",
+      "hoverBackground": "#58432d",
+      "hoverBorderColor": "#58432d"
+    },
+    "ScrollBar.Transparent": {
+      "thumbColor": "#392d24aa",
+      "hoverThumbColor": "#53453e"
+    }
+  }
+}
