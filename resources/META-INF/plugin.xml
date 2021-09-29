@@ -2,7 +2,7 @@
   <id>com.linden.lumio-theme</id>
   <name>Lumio Theme</name>
   <version>1.0</version>
-  <vendor email="l.dalegandar@gmail.com" url="https://github.com/linden-dg">Linden</vendor>
+  <vendor email="l.dalegandar@gmail.com" url="https://github.com/linden-dg/lumio-intellj-theme">Linden</vendor>
 
   <description><![CDATA[Lumio is heavily inspired by the Kimbie Dark theme and has been expanded to include the whole IDE rather than just the editor.
 <br/><br/>
@@ -10,18 +10,18 @@
 This dark theme uses a lot of warm browns and muted pastels for the main UI, saving the brighter & higher contrast colours for code highlighting in the editor. <br/>
 The main design focus for this theme was creating something that was easy on the eyes - with fewer blues than many other dark themes. It's especially good for night-owl coders!
 <br/><br/>
-  " ]]></description>
+   ]]></description>
 
   <change-notes>
     <![CDATA[
       <ul>
-        <li><b>0.1</b> Initial release. Basic theme functionality.</li>
+        <li><b>1.0</b> Initial release. Basic theme functionality.</li>
       </ul>
     ]]>
   </change-notes>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
        on how to target different products -->
