@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.linden.lumio-theme</id>
   <name>Lumio Theme</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="l.dalegandar@gmail.com" url="https://github.com/linden-dg/lumio-intellj-theme">Linden</vendor>
 
   <description><![CDATA[Lumio is heavily inspired by the Kimbie Dark theme and has been expanded to include the whole IDE rather than just the editor.
@@ -15,6 +15,7 @@ The main design focus for this theme was creating something that was easy on the
   <change-notes>
     <![CDATA[
       <ul>
+        <li><b>1.1</b> Switched editor & console fonts. Better support for Webstorm & Dataspell (Markdown, R, etc)</li>
         <li><b>1.0</b> Initial release. Basic theme functionality.</li>
       </ul>
     ]]>
